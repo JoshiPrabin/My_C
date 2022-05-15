@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623129621 source:c:\users\dell\desktop\complab3\matrixadd\main.c
+	<stdio.h>
+	<stdlib.h>
+

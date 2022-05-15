@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622947599 source:c:\users\dell\desktop\complab3\sort2\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621318013 source:c:\users\dell\desktop\complab1\addnnumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

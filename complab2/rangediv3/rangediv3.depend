@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622005485 source:c:\users\dell\desktop\complab2\rangediv3\main.c
+	<stdio.h>
+	<stdlib.h>
+

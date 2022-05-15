@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621868683 source:c:\users\dell\desktop\complab2\factorialbyfunc\main.c
+	<stdio.h>
+	<stdlib.h>
+

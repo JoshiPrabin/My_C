@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624949388 source:c:\users\dell\desktop\complab6\oddeven\main.c
+	<stdio.h>
+	<stdlib.h>
+

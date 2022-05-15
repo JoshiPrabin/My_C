@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623133099 source:c:\users\dell\desktop\complab3\weekdays\main.c
+	<stdio.h>
+	<stdlib.h>
+

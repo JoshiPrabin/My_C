@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624343027 source:c:\users\dell\desktop\complab5\revarray\main.c
+	<stdio.h>
+	<stdlib.h>
+

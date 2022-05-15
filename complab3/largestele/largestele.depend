@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622948376 source:c:\users\dell\desktop\complab3\largestele\main.c
+	<stdio.h>
+	<stdlib.h>
+

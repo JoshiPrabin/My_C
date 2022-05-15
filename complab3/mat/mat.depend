@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622376937 source:c:\users\dell\desktop\complab3\mat\main.c
+	<stdio.h>
+	<stdlib.h>
+

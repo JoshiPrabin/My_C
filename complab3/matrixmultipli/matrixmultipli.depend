@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623132147 source:c:\users\dell\desktop\complab3\matrixmultipli\main.c
+	<stdio.h>
+	<stdlib.h>
+
